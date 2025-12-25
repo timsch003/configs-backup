@@ -1,0 +1,96 @@
+[
+  {
+    "key": "shift+alt+]",
+    "label": "",
+    "action": "nexttab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "shift+alt+[",
+    "label": "",
+    "action": "prevtab",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "scrolldownmore",
+    "key": "shift+alt+j",
+    "label": "",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "shift+alt+k",
+    "label": "",
+    "action": "scrollupmore",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+alt+h",
+    "label": "",
+    "action": "scrollleft",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+alt+l",
+    "label": "",
+    "action": "scrollright",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+alt+j",
+    "action": "scrolldown",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+alt+k",
+    "action": "scrollup",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "movetableft",
+    "key": "alt+[",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "movetabright",
+    "key": "alt+]",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "action": "hardreload",
+    "key": "shift+ctrl+r",
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  }
+]
