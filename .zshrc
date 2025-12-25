@@ -102,9 +102,14 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+##### Custom aliases #####
+
 alias c="clear"
-export PATH="/home/tim/.config/herd-lite/bin:$PATH"
-export PHP_INI_SCAN_DIR="/home/tim/.config/herd-lite/bin:$PHP_INI_SCAN_DIR"
+alias u="sudo apt full-upgrade -y && sudo apt autoremove -y && ~/Documents/configs-backup/backup.sh"
+alias s="source ~/.zshrc"
+
+##########################
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -117,5 +122,4 @@ export NVM_DIR="$HOME/.nvm"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
-# fix for vscode not opening external links
-export BROWSER=firefox
+
