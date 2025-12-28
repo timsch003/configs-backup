@@ -106,7 +106,8 @@ source $ZSH/oh-my-zsh.sh
 ##### Custom aliases #####
 
 alias c="clear"
-alias u="sudo apt full-upgrade -y && sudo apt autoremove -y && ~/Documents/configs-backup/backup.sh"
+alias _="sudo"
+alias u="_ apt full-upgrade -y && sudo apt autoremove -y && ~/Documents/configs-backup/backup.sh"
 alias s="source ~/.zshrc"
 alias sail='[ -f sail ] && sh sail || sh vendor/bin/sail'
 

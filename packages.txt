@@ -1,9 +1,13 @@
+apt-transport-https
 bsdutils
+ca-certificates
 code
 composer
 curl
 dash
 diffutils
+docker-compose
+docker.io
 easyeffects
 efibootmgr
 findutils
