@@ -3,3 +3,7 @@
 	name = Tim Sch
 [core]
 	editor = vim
+[push]
+	autoSetupRemote = true
+[pager]
+	log = false
